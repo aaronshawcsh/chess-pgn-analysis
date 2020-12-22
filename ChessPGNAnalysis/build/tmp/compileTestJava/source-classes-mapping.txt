@@ -1,0 +1,2 @@
+StockPGNAnalyzerTests.java
+ StockPGNAnalyzerTests

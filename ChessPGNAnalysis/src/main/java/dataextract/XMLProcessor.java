@@ -30,6 +30,8 @@ import java.util.List;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
+
+import analyzerTools.Analyzer;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NamedNodeMap;
@@ -140,7 +142,7 @@ public class XMLProcessor {
                                     analysis.setEngineID(map.item(index).getNodeValue());
                                 }
                             }
-                            gameList.add(new Game(tagList, moves, analysis));
+                            gameList.add(new Game(Analyzer.Player.BLACK, moves, analysis));
                             break;
                         case MOVES_TAG:
                             // Get the moves as the text of the single child node.

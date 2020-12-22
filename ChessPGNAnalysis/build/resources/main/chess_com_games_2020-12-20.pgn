@@ -1,0 +1,994 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "-"]
+[White "sinutvm"]
+[Black "aaronshawcsh"]
+[Result "1-0"]
+[WhiteElo "864"]
+[BlackElo "884"]
+[TimeControl "300"]
+[EndTime "0:23:42 PST"]
+[Termination "sinutvm won by checkmate"]
+
+1. e4 e6 2. e5 b6 3. f3 Bb7 4. b4 Bxb4 5. c3 Bf8 6. a4 Bc5 7. a5 Ne7 8. axb6
+axb6 9. d4 Rxa1 10. dxc5 Rxb1 11. Qc2 Rxc1+ 12. Qxc1 O-O 13. Bd3 Na6 14. Qc2
+Nxc5 15. Bxh7+ Kh8 16. h4 g6 17. h5 Kxh7 18. hxg6+ Kg7 19. Rh7+ Kg8 20. g7 Re8
+21. Rh8+ Kxg7 22. Qh7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "federicopianarosa"]
+[Result "1-0"]
+[WhiteElo "893"]
+[BlackElo "903"]
+[TimeControl "300"]
+[EndTime "0:30:46 PST"]
+[Termination "aaronshawcsh won by resignation"]
+
+1. e4 g6 2. Nc3 Bg7 3. Bc4 c6 4. Qf3 e6 5. Nd5 cxd5 6. exd5 Qf6 7. Qxf6 Bxf6 8.
+dxe6 dxe6 9. Bb5+ Nc6 10. Bxc6+ bxc6 11. c3 Bb7 12. Nf3 h6 13. d4 Ne7 14. Bd2
+Nd5 15. O-O-O O-O 16. Bxh6 Rfe8 17. h4 Bg7 18. Bxg7 Kxg7 19. h5 Rh8 20. h6+ Rxh6
+21. Rxh6 Kxh6 22. Rh1+ Kg7 23. Ng5 Rh8 24. Rxh8 Kxh8 25. Nxf7+ Kg7 26. Ng5 Nc7
+27. Kd2 Bc8 28. Ke3 Kf6 29. Nh7+ Kg7 30. Ng5 Ne8 31. f4 Nf6 32. c4 a6 33. b4
+Ng4+ 34. Ke4 Bb7 35. d5 exd5+ 36. cxd5 cxd5+ 37. Kd4 Nf2 38. Ne6+ Kf6 39. Nc5
+Ba8 40. Nxa6 Kf5 41. a4 Kxf4 42. b5 g5 43. Nc7 Nd1 44. a5 Bb7 45. a6 Bc8 46.
+Kxd5 Nb2 47. Kc6 Kg3 48. Nd5 Kxg2 49. Kc7 Bf5 50. b6 Nc4 51. b7 g4 52. b8=Q Be4
+53. Ne3+ Nxe3 54. Qb2+ Kf3 55. a7 g3 56. Qf6+ Kg4 57. Qd4 Nd5+ 58. Kd6 Kf4 59.
+a8=Q Nc3 60. Qf8+ Kg4 61. Qdg7+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "-"]
+[White "Deza_al"]
+[Black "aaronshawcsh"]
+[Result "0-1"]
+[WhiteElo "880"]
+[BlackElo "901"]
+[TimeControl "300"]
+[EndTime "10:52:56 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. d4 d6 2. d5 Nf6 3. c4 g6 4. Nc3 Bg7 5. Nf3 O-O 6. e4 e5 7. dxe6 fxe6 8. Nd4
+e5 9. Ndb5 a6 10. Na3 c6 11. Be3 b5 12. cxb5 cxb5 13. Nd5 Nxd5 14. exd5 e4 15.
+Rb1 Nd7 16. Nc2 Bb7 17. f3 Nf6 18. fxe4 Nxe4 19. Be2 Qh4+ 20. g3 Nxg3 21. Bf2
+Rxf2 22. Kxf2 Nxh1+ 23. Ke3 Re8+ 24. Kd3 Qe4+ 25. Kd2 Bh6+ 26. Ne3 Qxe3+ 27. Kc2
+Qxe2+ 28. Qxe2 Rxe2+ 29. Kb3 Bxd5+ 30. Kc3 Bd2+ 31. Kd4 Be4 32. Rd1 d5 33. Kc5
+Be3+ 34. Kd6 Nf2 35. Rf1 Rxb2 36. a3 a5 37. Kc6 b4 38. a4 b3 39. Kb5 Bd3+ 40.
+Kxa5 Bxf1 41. Kb4 Bd2+ 42. Ka3 Rb1 43. a5 b2 44. Ka2 Be1 45. a6 Ra1+ 46. Kxb2
+Rxa6 47. Kc2 Ra2+ 48. Kb3 Bc4# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "AnthonyB21000"]
+[Result "1-0"]
+[WhiteElo "908"]
+[BlackElo "869"]
+[TimeControl "300"]
+[EndTime "11:00:59 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Bg5 O-O 6. Qf3 d6 7. Nd5 Kh8 8. Bxf6
+Qd7 9. Bxg7+ Kg8 10. Qg3 Qg4 11. Nf6+ Kxg7 12. Nxg4 Bxg4 13. Qxg4+ Kh8 14. O-O-O
+Rg8 15. Qf5 Rxg2 16. Bxf7 Rf8 17. Qf6+ Rg7 18. Nf3 Rxf7 19. Qh6 Rxf3 20. Rhg1
+Be3+ 21. fxe3 Rff7 22. Rxg7 Rxg7 23. Qf6 Ne7 24. Rg1 Ng6 25. h4 Kg8 26. h5 Rf7
+27. Qe6 Kf8 28. hxg6 hxg6 29. Rxg6 Re7 30. Qc8+ Kf7 31. Qg8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "-"]
+[White "ynwanfield"]
+[Black "aaronshawcsh"]
+[Result "0-1"]
+[WhiteElo "930"]
+[BlackElo "917"]
+[TimeControl "300"]
+[EndTime "11:10:18 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 e6 2. d4 b6 3. Nf3 Bb7 4. Nc3 Bb4 5. e5 Ne7 6. Bd3 Nd5 7. O-O Bxc3 8. bxc3
+Nxc3 9. Qd2 Bxf3 10. Qxc3 Bb7 11. Qe1 O-O 12. Be4 d5 13. exd6 Bxe4 14. Qxe4 c6
+15. Bf4 f5 16. Qxe6+ Kh8 17. Rfe1 Re8 18. Qxf5 Rxe1+ 19. Rxe1 Nd7 20. Re7 Qf8
+21. Qxf8+ Rxf8 22. g3 Nf6 23. Rxa7 h6 24. d7 Nxd7 25. Rxd7 c5 26. Rd6 Ra8 27.
+Rxb6 cxd4 28. Rd6 Rxa2 29. Rxd4 Rxc2 30. Rd8+ Kh7 31. h4 Kg6 32. Rd6+ Kf5 33.
+Rd5+ Ke4 34. Re5+ Kf3 35. Re3+ Kg4 36. Kg2 g5 37. hxg5 hxg5 38. Re2 Rxe2 39.
+Bxg5 Kxg5 40. Kh3 Rxf2 41. g4 Rf1 42. Kg3 Rg1+ 43. Kh3 Rxg4 44. Kh2 Kf4 45. Kh3
+Kf3 46. Kh2 Rg8 47. Kh1 Kf2 48. Kh2 Rh8# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "totochomdu"]
+[Result "0-1"]
+[WhiteElo "908"]
+[BlackElo "876"]
+[TimeControl "300"]
+[EndTime "13:48:18 PST"]
+[Termination "totochomdu won by resignation"]
+
+1. e4 e5 2. Nc3 Bb4 3. Bc4 d6 4. Qf3 Nf6 5. d3 O-O 6. Bg5 Nbd7 7. O-O-O a6 8.
+Nge2 b5 9. Bd5 Rb8 10. h4 Qe8 11. h5 Nxd5 12. Nxd5 Bc5 13. Nf6+ Nxf6 14. Bxf6
+gxf6 15. Qg3+ Kh8 16. h6 Rg8 17. Qh4 Qe7 18. Ng3 Bxf2 19. Rd2 Bxg3 20. Qh5 Bf4
+21. Rf1 Bxd2+ 22. Kxd2 Rxg2+ 23. Ke3 Rg8 24. Qh4 Rg6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "akdubh"]
+[Result "1-0"]
+[WhiteElo "917"]
+[BlackElo "923"]
+[TimeControl "300"]
+[EndTime "13:53:51 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bc5 4. d3 c6 5. Bg5 h6 6. Bxf6 Qxf6 7. Qf3 Be7 8.
+O-O-O d6 9. Qxf6 Bxf6 10. Nf3 Be6 11. Bxe6 fxe6 12. h4 d5 13. g4 d4 14. Na4 g5
+15. hxg5 Bg7 16. gxh6 Rxh6 17. Rxh6 Bxh6+ 18. g5 Bg7 19. Nc5 b6 20. Nxe6 Kf7 21.
+Nxg7 Kxg7 22. Nxe5 Na6 23. Nxc6 Nb4 24. Nxb4 a5 25. Nd5 a4 26. Nxb6 Ra7 27. Rg1
+a3 28. b3 Rb7 29. Nd5 Rd7 30. f4 Rd8 31. f5 Rh8 32. g6 Rh3 33. f6+ Kf8 34. g7+
+Kg8 35. f7+ Kxf7 36. g8=Q# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "Claudiobergmann"]
+[Result "1-0"]
+[WhiteElo "925"]
+[BlackElo "891"]
+[TimeControl "300"]
+[EndTime "14:00:20 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bb4 5. Bg5 O-O 6. Qf3 d6 7. O-O-O Nd4 8.
+Bxf6 gxf6 9. Qh5 Bxc3 10. bxc3 f5 11. cxd4 exd4 12. Ne2 fxe4 13. Nxd4 Be6 14.
+Bxe6 fxe6 15. dxe4 Qf6 16. Qg4+ Kf7 17. Rhe1 e5 18. Nf5 Rg8 19. Qh5+ Ke6 20. Re3
+Rg5 21. Qh6 Qxh6 22. Nxh6 Rxg2 23. f4 exf4 24. Rf3 Ke5 25. Rd5+ Kxe4 26. Rfd3
+Rxh2 27. Ng4 Rh1+ 28. Kb2 Rg1 29. Nf2# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "-"]
+[White "Tesseraktor"]
+[Black "aaronshawcsh"]
+[Result "0-1"]
+[WhiteElo "952"]
+[BlackElo "934"]
+[TimeControl "300"]
+[EndTime "14:07:20 PST"]
+[Termination "aaronshawcsh won by resignation"]
+
+1. e4 e6 2. d4 b6 3. Nf3 Bb7 4. e5 Ne7 5. Nc3 Nd5 6. Nxd5 Bxd5 7. c4 Bb7 8. Ng5
+Be7 9. Qf3 Bxg5 10. Bxg5 Qxg5 11. d5 Qxe5+ 12. Be2 O-O 13. O-O b5 14. cxb5 Bxd5
+15. Qd3 a6 16. Rfc1 axb5 17. Rxc7 Qxc7 18. Qxb5 Ra5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "-"]
+[White "WookieeDuPuy"]
+[Black "aaronshawcsh"]
+[Result "1-0"]
+[WhiteElo "935"]
+[BlackElo "926"]
+[TimeControl "300"]
+[EndTime "14:11:35 PST"]
+[Termination "WookieeDuPuy won by resignation"]
+
+1. e4 e6 2. d4 b6 3. c4 Bb7 4. Nc3 Bb4 5. Qd3 Ne7 6. e5 O-O 7. Bd2 Bxc3 8. Bxc3
+f5 9. exf6 Rxf6 10. Nf3 Bxf3 11. gxf3 Nec6 12. Rg1 e5 13. dxe5 Nxe5 14. Bxe5 Re6
+15. Rxg7+ Kf8 16. Qf5+ Ke8 17. Rg8+ Ke7 18. Rxd8 Kxd8 19. Rd1 Nc6 20. Qxe6 Nxe5
+21. Qxe5 d6 22. Qh8+ Kd7 23. Qxa8 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "-"]
+[White "AmateurLover"]
+[Black "aaronshawcsh"]
+[Result "0-1"]
+[WhiteElo "964"]
+[BlackElo "935"]
+[TimeControl "300"]
+[EndTime "14:20:26 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 e6 2. d4 b6 3. e5 Bb7 4. Nf3 d6 5. exd6 Bxd6 6. Bg5 Nf6 7. Nc3 h6 8. Bxf6
+Qxf6 9. d5 O-O 10. dxe6 Qxe6+ 11. Be2 Bxf3 12. gxf3 Bb4 13. Rg1 Bxc3+ 14. bxc3
+Nc6 15. Kf1 Rad8 16. Qc1 Rfe8 17. Bb5 Qh3+ 18. Rg2 Re6 19. Qb2 Rg6 20. Ke2 Qxg2
+21. Bd3 Re6+ 22. Be4 Rxe4+ 23. fxe4 Qxe4+ 24. Kf1 Rd2 25. Qc1 Qe2+ 26. Kg2 Qxf2+
+27. Kh3 Qxh2+ 28. Kg4 Ne5+ 29. Kf5 Rf2+ 30. Ke4 Re2+ 31. Kd4 Rd2+ 32. Ke4 Qe2+
+33. Kf4 g5+ 34. Kf5 Qf3+ 35. Kxe5 f6+ 36. Ke6 Rd6+ 37. Ke7 Qe4# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "lilbeaast"]
+[Result "1-0"]
+[WhiteElo "943"]
+[BlackElo "916"]
+[TimeControl "300"]
+[EndTime "16:05:45 PST"]
+[Termination "aaronshawcsh won by resignation"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 Nc6 5. Nf3 Bg4 6. h3 Bxf3 7. gxf3 Qd7 8. f4
+O-O-O 9. fxe5 Nxe5 10. Bf4 Bb4+ 11. c3 dxc3 12. Nxc3 Nf6 13. h4 Nxd3+ 14. Ke2
+Nxf4+ 15. Ke3 Bc5+ 16. Kxf4 Bd6+ 17. e5 Bc5 18. Bh3 g5+ 19. hxg5 Nd5+ 20. Nxd5
+Qxh3 21. Rxh3 f6 22. Nxf6 Rd4+ 23. Ne4 Rxd1 24. Rxd1 Bxf2 25. Rhd3 Rf8+ 26. Kg4
+b6 27. Nd6+ Kd7 28. Ne4+ Ke6 29. Nxf2 Rxf2 30. Rd7 Rc2 31. Rxh7 Kxe5 32. g6 Rg2+
+33. Kf3 Rxg6 34. Re7+ Kf5 35. Rxc7 a5 36. Rf7+ Kg5 37. Rg1+ Kh6 38. Rxg6+ Kxg6
+39. Rb7 Kf6 40. Rxb6+ Ke5 41. Ra6 Kd4 42. Rxa5 Kc4 43. b3+ Kb4 44. Ra4+ Kb5 45.
+Ke3 Kc5 46. Kd3 Kb5 47. Kc3 Kc5 48. Rb4 Kd5 49. a3 Kc6 50. a4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "aguyinaustintx1"]
+[Result "0-1"]
+[WhiteElo "937"]
+[BlackElo "1037"]
+[TimeControl "300"]
+[EndTime "3:53:44 PST"]
+[Termination "aguyinaustintx1 won on time"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 g6 5. Bg5 Bg7 6. Qf3 O-O 7. Nd5 Nd4 8. Bxf6
+Bxf6 9. Nxf6+ Kg7 10. Nh5+ Kh8 11. Qf6+ Qxf6 12. Nxf6 Nxc2+ 13. Kd2 Nxa1 14. Nf3
+Kg7 15. Nh5+ gxh5 16. Re1 d6 17. Re3 Bg4 18. Nh4 a6 19. Rg3 Kf6 20. f3 Be6 21.
+f4 Bxc4 22. dxc4 exf4 23. Rf3 Ke5 24. Kd3 b5 25. cxb5 Rg8 26. g3 axb5 27. gxf4+
+Ke6 28. Kd4 c5+ 29. Kc3 b4+ 30. Kd3 Rxa2 31. f5+ Ke7 32. f6+ Ke6 33. Kc4 Rxb2
+34. Nf5 Rxh2 35. Ng7+ Kd7 36. Kd5 b3 37. e5 dxe5 38. Rd3 b2 39. Kxc5+ Kc7 40.
+Rd1 Rd8 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "Toledo_chess_guy"]
+[Black "aaronshawcsh"]
+[Result "1-0"]
+[WhiteElo "950"]
+[BlackElo "929"]
+[TimeControl "300"]
+[EndTime "4:04:10 PST"]
+[Termination "Toledo_chess_guy won on time"]
+
+1. Nf3 e6 2. Nc3 b6 3. e3 Bb7 4. Ne5 Qf6 5. d4 c5 6. Bb5 Bxg2 7. Rg1 Bb7 8. Bd2
+Bd6 9. Ng4 Qf5 10. Bd3 Bf3 11. Be2 Bxh2 12. Nxh2 Bxe2 13. Qxe2 Qxc2 14. Rc1 Qxb2
+15. Rxg7 Nc6 16. Qf3 f6 17. Qh5+ Kd8 18. Qf7 Nce7 19. Qf8+ Kc7 20. Qxa8 d5 21.
+Qxa7+ Kc6 22. Qa4+ b5 23. Qa6+ Kc7 24. Qa7+ Kc6 25. e4 cxd4 26. exd5+ Kd6 27.
+Ne4+ Ke5 28. Nc5 h5 29. Nf3+ Kxd5 30. Nd3 Ke4 31. Nxb2 Kxf3 32. Rg3+ Ke4 33.
+Qb7+ Kf5 34. Qf3+ Ke5 35. Nc4+ bxc4 36. Bb4 h4 37. Qe2+ Kd5 38. Rg4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "loj9"]
+[Result "0-1"]
+[WhiteElo "921"]
+[BlackElo "954"]
+[TimeControl "300"]
+[EndTime "4:54:26 PST"]
+[Termination "loj9 won on time"]
+
+1. e4 e6 2. Nc3 b6 3. Bc4 Bb7 4. d3 Bb4 5. Qf3 Bxc3+ 6. bxc3 h6 7. Be3 Qe7 8.
+Kd2 Nc6 9. a4 O-O-O 10. Bb5 Nf6 11. Ne2 g5 12. g4 d5 13. Nd4 a6 14. Nxc6 Bxc6
+15. Bxc6 Rd6 16. exd5 exd5 17. Rhe1 Rxc6 18. Bd4 Qd6 19. Qf5+ Kb7 20. Bxf6 Qxf6
+21. Qxf6 Rxf6 22. Re7 Rxf2+ 23. Ke3 Rxh2 24. Kd4 Rxc2 25. Rxf7 Rd8 26. Re1 Ra2
+27. Ree7 Rxa4+ 28. Ke5 Rxg4 29. Rxc7+ Kb8 30. Rb7+ Ka8 31. Ra7+ Kb8 32. Rfb7+
+Kc8 33. Rc7+ Kb8 34. Rab7+ Ka8 35. c4 Rg1 36. Ke6 Re1+ 37. Kf7 Rf1+ 38. Ke7 Rh8
+39. Ra7+ Kb8 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "katlucka"]
+[Result "1-0"]
+[WhiteElo "929"]
+[BlackElo "893"]
+[TimeControl "300"]
+[EndTime "4:59:36 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 c5 2. Nc3 e6 3. d3 Nc6 4. Be3 Nf6 5. Qd2 d5 6. O-O-O d4 7. Bg5 dxc3 8.
+Qxc3 Be7 9. Nf3 b6 10. d4 Nxe4 11. Bxe7 Qxe7 12. Qe3 Nd6 13. Bb5 Bd7 14. Rhe1
+cxd4 15. Nxd4 Nxd4 16. Bxd7+ Qxd7 17. Qxd4 O-O 18. Qxd6 Qxd6 19. Rxd6 Rfd8 20.
+Rxd8+ Rxd8 21. Rd1 a5 22. Rxd8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "Birdy-787"]
+[Result "0-1"]
+[WhiteElo "920"]
+[BlackElo "916"]
+[TimeControl "300"]
+[EndTime "5:01:49 PST"]
+[Termination "Birdy-787 won by resignation"]
+
+1. e4 d6 2. Nc3 Nf6 3. Bc4 g6 4. d3 Bg7 5. Bg5 O-O 6. Qd2 c5 7. Bh6 Nc6 8. Bxg7
+Kxg7 9. Nd5 Nxd5 10. exd5 Nd4 11. c3 Nf5 12. h4 e6 13. dxe6 Bxe6 14. Bxe6 fxe6
+15. h5 Re8 16. hxg6 Kxg6 17. Qh6+ Nxh6 18. Rxh6+ Kxh6 19. Ne2 Qg5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "rabies10"]
+[Black "aaronshawcsh"]
+[Result "0-1"]
+[WhiteElo "889"]
+[BlackElo "928"]
+[TimeControl "300"]
+[EndTime "5:07:07 PST"]
+[Termination "aaronshawcsh won by resignation"]
+
+1. e4 e6 2. d4 b6 3. Nf3 Bb7 4. Bd3 Qf6 5. Bg5 Qg6 6. Qd2 Be7 7. Ne5 Qxg5 8.
+Qxg5 Bxg5 9. f4 Bxf4 10. g4 Ne7 11. Bb5 Bxe4 12. Nd3 Bxh1 13. Nxf4 O-O 14. c4
+Bf3 15. h3 Ng6 16. Nh5 Bg2 17. Nc3 Bxh3 18. d5 Bxg4 19. Nf4 Nxf4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "eranba"]
+[Result "1-0"]
+[WhiteElo "936"]
+[BlackElo "913"]
+[TimeControl "300"]
+[EndTime "5:13:58 PST"]
+[Termination "aaronshawcsh won - game abandoned"]
+
+1. e4 e6 2. Nc3 d5 3. exd5 exd5 4. Qe2+ Be7 5. d3 Nf6 6. Bg5 O-O 7. O-O-O c6 8.
+h4 Nbd7 9. g4 Nb6 10. Bxf6 Bxf6 11. g5 Bxc3 12. bxc3 Be6 13. Bh3 Re8 14. Bxe6
+Rxe6 15. Qg4 Qe8 16. h5 Re1 17. Nh3 Re2 18. Nf4 Rxf2 19. Rhe1 Qf8 20. Qg3 Rxf4
+21. Qxf4 Nd7 22. Rf1 Re8 23. Rd2 Ne5 24. Rdf2 Re7 25. Re2 Nxd3+ 26. cxd3 Rxe2
+27. g6 hxg6 28. hxg6 f6 29. Rh1 Qe7 30. Qb8+ Qf8 31. Rh8+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "josjaarsveld"]
+[Black "aaronshawcsh"]
+[Result "1-0"]
+[WhiteElo "967"]
+[BlackElo "929"]
+[TimeControl "300"]
+[EndTime "5:24:47 PST"]
+[Termination "josjaarsveld won by checkmate"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. g3 O-O 6. Bg2 Bg4 7. O-O Nc6 8. h3
+Bxf3 9. Bxf3 Nd7 10. e5 dxe5 11. Bxc6 bxc6 12. dxe5 Nxe5 13. Qxd8 Raxd8 14. Bf4
+Nf3+ 15. Kh1 Bxc3 16. bxc3 Rd5 17. Bxc7 Rh5 18. h4 g5 19. Kg2 Nxh4+ 20. gxh4
+gxh4 21. Rh1 f6 22. Rad1 Kh8 23. Rd8 Rxd8 24. Bxd8 Rg5+ 25. Kf1 Rg4 26. Bxe7 Kg7
+27. Rg1 h5 28. Rxg4+ hxg4 29. Kg2 Kg6 30. f3 gxf3+ 31. Kxf3 Kh5 32. Kg2 Kg4 33.
+Bxf6 h3+ 34. Kh2 c5 35. c4 a5 36. a4 Kf5 37. Be7 Ke4 38. Bxc5 Ke5 39. Bb6 Kd6
+40. Bxa5 Kc5 41. Kxh3 Kxc4 42. Bd8 Kb4 43. a5 Kb5 44. Kg4 Ka6 45. Kf5 Kb7 46.
+Ke6 Kc8 47. Bb6 Kb7 48. Kd6 Ka6 49. c3 Kb7 50. c4 Ka6 51. c5 Kb7 52. c6+ Kb8 53.
+c7+ Kc8 54. Kd5 Kb7 55. a6+ Kc8 56. a7 Kb7 57. a8=Q+ Kxa8 58. c8=Q# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "CannonRush34"]
+[Black "aaronshawcsh"]
+[Result "0-1"]
+[WhiteElo "939"]
+[BlackElo "937"]
+[TimeControl "300"]
+[EndTime "8:04:34 PST"]
+[Termination "aaronshawcsh won by resignation"]
+
+1. d4 d6 2. c4 Nf6 3. Nf3 g6 4. Bg5 Bg7 5. e3 O-O 6. Qb3 c6 7. Bd3 d5 8. cxd5
+cxd5 9. Ne5 Ne4 10. Bh4 h5 11. Qb4 f6 12. Nf3 g5 13. Nxg5 fxg5 14. Bg3 Nxg3 15.
+hxg3 Nc6 16. Rxh5 Nxb4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "Jinis"]
+[Result "1-0"]
+[WhiteElo "945"]
+[BlackElo "946"]
+[TimeControl "300"]
+[EndTime "8:07:36 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 e5 2. Nc3 Bb4 3. Bc4 Nf6 4. d3 Bxc3+ 5. bxc3 Nc6 6. Bg5 d6 7. Qf3 Bg4 8.
+Bxf6 Bxf3 9. Bxd8 Bxg2 10. Bxc7 Kd7 11. Bxd6 Kxd6 12. Rd1 f6 13. d4 Bxh1 14.
+dxe5+ Kxe5 15. Rd5+ Kf4 16. Rf5+ Kxe4 17. Bd3# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "BRGambit"]
+[Black "aaronshawcsh"]
+[Result "0-1"]
+[WhiteElo "974"]
+[BlackElo "954"]
+[TimeControl "300"]
+[EndTime "8:12:38 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 e6 2. d4 b6 3. Nf3 Bb7 4. Be3 Bxe4 5. Ba6 Nxa6 6. Nc3 Bb4 7. a3 Bxc3+ 8.
+bxc3 Qf6 9. O-O Bxf3 10. gxf3 Qg6+ 11. Kh1 h5 12. Rg1 Qf5 13. c4 Rh6 14. d5 Ne7
+15. dxe6 fxe6 16. Qe2 Kf7 17. c5 Nxc5 18. Bxc5 bxc5 19. Qb5 Rah8 20. Qxd7 Qxf3+
+21. Rg2 Rg6 22. Rg1 Rxg2 23. Rxg2 Rh6 24. Qd3 Qxd3 25. cxd3 Nf5 26. Rg4 hxg4 27.
+h3 Rxh3+ 28. Kg2 Rxd3 29. a4 Ra3 30. a5 Ra4 31. a6 Ra5 32. f3 Rxa6 33. fxg4 Ne3+
+34. Kf3 Nd5 35. Ke4 Rd6 36. g5 Nc3+ 37. Ke5 c4 38. Kf4 Nd5+ 39. Ke4 Nb4 40. Ke3
+c3 41. Ke2 c2 42. Ke3 c1=Q+ 43. Ke4 a6 44. Ke5 a5 45. Ke4 a4 46. Ke5 a3 47. Ke4
+a2 48. Ke5 a1=Q+ 49. Ke4 c6 50. Kf3 c5 51. Kg4 c4 52. g6+ Kf6 53. Kg3 c3 54. Kf3
+c2 55. Kf2 Qca3 56. Ke2 c1=Q 57. Kf2 e5 58. Ke2 e4 59. Kf2 Qf3# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "Kmu1"]
+[Result "1-0"]
+[WhiteElo "963"]
+[BlackElo "989"]
+[TimeControl "300"]
+[EndTime "10:34:37 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 Nf6 4. d3 e5 5. Bg5 Be7 6. Nf3 O-O 7. Nxe5 h6 8. Bxf6
+Bxf6 9. Nf3 Bg4 10. Nf4 Bg5 11. Nd5 c6 12. Nb4 a5 13. c3 axb4 14. cxd4 Bxf3 15.
+Qxf3 Qxd4 16. h4 Bf6 17. Qe2 Qxb2 18. Qxb2 Bxb2 19. Rb1 Bc3+ 20. Kd1 Nd7 21. g4
+Rxa2 22. f4 Rd2+ 23. Kc1 Rxd3 24. Bxd3 Nc5 25. Rd1 Rd8 26. Kc2 Ne6 27. f5 Nf4
+28. Bc4 Rxd1 29. Rxd1 Kh7 30. g5 hxg5 31. hxg5 b6 32. Bxf7 Ne2 33. Rh1# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "StalinMA"]
+[Black "aaronshawcsh"]
+[Result "0-1"]
+[WhiteElo "927"]
+[BlackElo "970"]
+[TimeControl "300"]
+[EndTime "10:49:16 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. d4 d6 2. e3 Nf6 3. c4 g6 4. c5 Bg7 5. Qa4+ Bd7 6. Bb5 O-O 7. c6 Bxc6 8. Bxc6
+Nxc6 9. b4 a6 10. Nc3 b5 11. Qb3 d5 12. Nf3 e6 13. Ne5 Nxe5 14. dxe5 Nd7 15. f4
+f6 16. Nxd5 exd5 17. Qxd5+ Kh8 18. Bb2 fxe5 19. fxe5 Nxe5 20. Qxd8 Raxd8 21.
+Bxe5 Bxe5 22. Rc1 Rd3 23. Ke2 Rfd8 24. Rc6 Rd2+ 25. Kf3 Rf8+ 26. Ke4 Bd6 27. g3
+Rxa2 28. h4 Ra4 29. Kd5 Rxb4 30. h5 Rf5+ 31. Ke6 Re4+ 32. Kd7 Rf7+ 33. Kc8 Re8+
+34. Kb7 a5 35. hxg6 Rf3 36. Rxh7+ Kg8 37. Rhxc7 Bxc7 38. Rxc7 Rxg3 39. Rc5 Re7+
+40. Ka6 Rxg6+ 41. Kxb5 Rxe3 42. Kxa5 Rg1 43. Rc8+ Kf7 44. Kb6 Rb1+ 45. Kc7 Re7+
+46. Kd8 Rd1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "Broderick22"]
+[Black "aaronshawcsh"]
+[Result "1-0"]
+[WhiteElo "974"]
+[BlackElo "962"]
+[TimeControl "300"]
+[EndTime "11:00:40 PST"]
+[Termination "Broderick22 won on time"]
+
+1. d4 d6 2. Nc3 Nf6 3. e3 g6 4. e4 Bg7 5. Bf4 O-O 6. h4 h5 7. Bd3 Nh7 8. f3 e6
+9. Bg5 Nxg5 10. hxg5 Qxg5 11. Nh3 Qd8 12. Qe2 f5 13. e5 dxe5 14. dxe5 Nc6 15.
+O-O-O Nxe5 16. Bxf5 Qe7 17. Be4 Bd7 18. Bxb7 Rab8 19. Be4 Qb4 20. b3 Qxc3 21.
+Bxg6 Nd3+ 22. Qxd3 Qa1+ 23. Kd2 Bh6+ 24. f4 Qf6 25. Bh7+ Kf7 26. Qxd7+ Qe7 27.
+Qxe7+ Kxe7 28. Kc1 Bxf4+ 29. Nxf4 Rxf4 30. Rhf1 Rg4 31. Rg1 a5 32. a4 c5 33.
+Rde1 Rg5 34. Bd3 Rbg8 35. Rh1 Rxg2 36. Rxh5 Rf2 37. Re2 Rg1+ 38. Kb2 Rff1 39.
+Rh7+ Kd6 40. Ra7 Rb1+ 41. Kc3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "CheckmateCuber"]
+[Result "0-1"]
+[WhiteElo "955"]
+[BlackElo "1012"]
+[TimeControl "300"]
+[EndTime "11:39:23 PST"]
+[Termination "CheckmateCuber won by resignation"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Bg5 O-O 6. Nd5 Nxd5 7. Bxe7 Ndxe7 8.
+h4 d5 9. g4 dxc4 10. h5 cxd3 11. g5 f5 12. exf5 Bxf5 13. cxd3 Qxd3 14. Qxd3 Bxd3
+15. Nf3 Rxf3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "devesh0411"]
+[Result "1-0"]
+[WhiteElo "962"]
+[BlackElo "901"]
+[TimeControl "300"]
+[EndTime "11:47:34 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bc5 5. Bg5 d6 6. Qf3 Be6 7. Nd5 Bxd5 8.
+Bxd5 Nb4 9. Bb3 O-O 10. Bxf6 Qxf6 11. Qxf6 gxf6 12. O-O-O Bxf2 13. Nf3 c5 14. c3
+Nc6 15. g4 Rad8 16. g5 fxg5 17. Nxg5 Be3+ 18. Kb1 Bxg5 19. h4 Bh6 20. Rhg1+ Bg7
+21. h5 Kh8 22. h6 Bxh6 23. Rh1 Bf4 24. Rdg1 Rg8 25. Rxg8+ Rxg8 26. Bxf7 Rf8 27.
+Bg6 h6 28. Kc2 Ne7 29. Bf5 Nxf5 30. exf5 Rxf5 31. Kd1 d5 32. Ke2 Bg5 33. d4 exd4
+34. cxd4 cxd4 35. Kd3 Rf4 36. Re1 Rf2 37. Re5 Rxb2 38. Rxd5 Rxa2 39. Ke4 Rd2 40.
+Kf5 b6 41. Kg6 a5 42. Re5 Be7 43. Rxe7 Kg8 44. Re8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "shanayaj"]
+[Result "1-0"]
+[WhiteElo "970"]
+[BlackElo "971"]
+[TimeControl "300"]
+[EndTime "11:52:26 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 e5 2. Nc3 Bc5 3. Bc4 Nf6 4. d3 O-O 5. Bg5 Be7 6. Qf3 d6 7. Nd5 Nbd7 8.
+Nxf6+ Bxf6 9. Bxf6 Nxf6 10. O-O-O Bg4 11. Qe3 Bxd1 12. Kxd1 Ng4 13. Qf3 Nf6 14.
+h4 c6 15. g4 b5 16. Bb3 d5 17. g5 Nd7 18. Qg4 g6 19. h5 dxe4 20. hxg6 hxg6 21.
+Qh4 exd3 22. Qh7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "PiotrZagula"]
+[Black "aaronshawcsh"]
+[Result "1-0"]
+[WhiteElo "1006"]
+[BlackElo "963"]
+[TimeControl "300"]
+[EndTime "12:01:54 PST"]
+[Termination "PiotrZagula won on time"]
+
+1. e4 e6 2. Nf3 b6 3. d4 Bb7 4. Bd3 c5 5. Nc3 cxd4 6. Nxd4 e5 7. Nf5 Bb4 8. Bd2
+Nf6 9. a3 Bxc3 10. Bxc3 Nxe4 11. Qf3 Nc5 12. Nd6+ Ke7 13. Nxb7 Nxb7 14. Qxb7 Nc6
+15. Be4 Kd6 16. O-O-O+ Ke6 17. Bd5+ Kf6 18. Bxc6 Rb8 19. Qxd7 Qxd7 20. Rxd7 Rbc8
+21. Bf3 Rhe8 22. Re1 a5 23. b4 axb4 24. Bxb4 e4 25. Bxe4 Rc4 26. Rd6+ Kg5 27.
+Bd2+ Kh4 28. Bd5 Rxe1+ 29. Bxe1 Rd4 30. Bc3 Rf4 31. f3 Kg5 32. Bxg7 Kf5 33. Rf6+
+Ke5 34. Rxf4+ Kxf4 35. Bxf7 b5 36. Bg8 h5 37. Bh6+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "ngers"]
+[Black "aaronshawcsh"]
+[Result "0-1"]
+[WhiteElo "962"]
+[BlackElo "971"]
+[TimeControl "300"]
+[EndTime "12:08:07 PST"]
+[Termination "aaronshawcsh won by resignation"]
+
+1. e4 e6 2. Nf3 b6 3. Bc4 Bb7 4. d4 Bxe4 5. Ng5 Bxg2 6. Rg1 Bb7 7. Nc3 Be7 8.
+Qh5 g6 9. Qg4 Bxg5 10. Bxg5 f6 11. Bxe6 fxg5 12. Bxg8 Rxg8 13. O-O-O Rf8 14.
+Rde1+ Kf7 15. Ne4 Kg7 16. Nxg5 h6 17. Ne6+ dxe6 18. Rxe6 Qg5+ 19. Qxg5 hxg5 20.
+Rxg5 Bc8 21. Rexg6+ Kf7 22. Rh6 Nd7 23. f4 c5 24. dxc5 Nxc5 25. f5 Ne4 26. Rgh5
+Bb7 27. Rh7+ Ke8 28. Rxb7 Nf6 29. Rh6 Rd8 30. Rxa7 Ng4 31. Rxb6 Rxf5 32. Re6+
+Kf8 33. h3 Rf1+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "LucaTrivellone"]
+[Black "aaronshawcsh"]
+[Result "1-0"]
+[WhiteElo "971"]
+[BlackElo "963"]
+[TimeControl "300"]
+[EndTime "17:37:28 PST"]
+[Termination "LucaTrivellone won by checkmate"]
+
+1. e4 e6 2. Nf3 b6 3. Bc4 Bb7 4. Nc3 Bb4 5. a3 Bxc3 6. bxc3 Bxe4 7. d3 Bb7 8.
+Be3 Qf6 9. Bd4 Bxf3 10. gxf3 e5 11. Qe2 d6 12. O-O-O Ne7 13. Bb5+ c6 14. Bxe5
+dxe5 15. Bc4 O-O 16. a4 a5 17. Rde1 Ng6 18. d4 Re8 19. d5 Nf4 20. Qe4 cxd5 21.
+Bxd5 Ra7 22. Rhg1 Nd7 23. Bc6 Rc7 24. Bxd7 Rxd7 25. Rd1 Rxd1+ 26. Rxd1 Rc8 27.
+Qb7 Qc6 28. Qxc6 Nd3+ 29. Rxd3 Rxc6 30. Rd8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.14"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "theyardiskindofover"]
+[Result "1-0"]
+[WhiteElo "970"]
+[BlackElo "929"]
+[TimeControl "300"]
+[EndTime "17:43:30 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 Nf6 2. Nc3 e6 3. Bc4 Bd6 4. d3 c6 5. Bg5 h6 6. Bxf6 Qxf6 7. Qf3 Bf4 8. g3
+e5 9. gxf4 exf4 10. O-O-O g5 11. Nge2 d6 12. Rhe1 g4 13. Qxf4 Qe7 14. Ng3 b5 15.
+Bb3 Na6 16. Nf5 Qf6 17. Nxd6+ Ke7 18. Qxf6+ Kxf6 19. e5+ Ke7 20. Nf5+ Kf8 21. e6
+fxe6 22. Bxe6 Bxe6 23. Rxe6 Kf7 24. Rxc6 Nb4 25. Rc7+ Kf6 26. Ne3 h5 27. Ned5+
+Nxd5 28. Nxd5+ Ke6 29. Nc3 Kd6 30. Rf7 h4 31. Nxb5+ Ke6 32. Rc7 Rhf8 33. Re1+
+Kd5 34. c4# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "kukuraitis123"]
+[Black "aaronshawcsh"]
+[Result "0-1"]
+[WhiteElo "951"]
+[BlackElo "978"]
+[TimeControl "300"]
+[EndTime "8:10:10 PST"]
+[Termination "aaronshawcsh won on time"]
+
+1. g3 e6 2. Bg2 Nc6 3. e3 b6 4. Ne2 Bb7 5. O-O Nf6 6. b3 g6 7. Bb2 Bg7 8. d3 O-O
+9. Nd2 d5 10. c4 dxc4 11. Nxc4 a6 12. Nf4 b5 13. Na3 Re8 14. Qe2 e5 15. Nh3 Rb8
+16. Rad1 Nd7 17. Nc2 a5 18. Bxc6 Bxc6 19. d4 Qf6 20. dxe5 Qf5 21. Nf4 Bxe5 22.
+Bxe5 Nxe5 23. Nd4 Qe4 24. Nxc6 Nxc6 25. Nd5 Qe5 26. f4 Qd6 27. e4 Re6 28. e5
+Qc5+ 29. Kh1 Nd4 30. Qg2 Rd8 31. Nf6+ Rxf6 32. exf6 Qd5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "bayesrules"]
+[Black "aaronshawcsh"]
+[Result "0-1"]
+[WhiteElo "929"]
+[BlackElo "985"]
+[TimeControl "300"]
+[EndTime "8:16:57 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. f3 Bg7 5. Be3 O-O 6. Qd2 Nfd7 7. Bh6 Bxh6 8.
+Qxh6 f5 9. h4 Nf6 10. h5 Nxh5 11. Rxh5 gxh5 12. exf5 Bxf5 13. Ne4 Qd7 14. O-O-O
+e6 15. Bd3 Nc6 16. Nh3 Nxd4 17. Nf6+ Rxf6 18. Qxf6 Bxd3 19. Rxd3 Ne2+ 20. Kb1
+Rf8 21. Qg5+ Kh8 22. f4 Qg7 23. Qxh5 Qxg2 24. a3 Qh1+ 25. Ka2 Nc1+ 26. Kb1 Nxd3+
+27. Ka2 Qd5+ 28. b3 Qxh5 29. Ng5 Nc1+ 30. Kb2 Rxf4 31. Kxc1 Qxg5 32. Kb2 Qe5+
+33. Ka2 Rf1 34. a4 Qa1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "frederikwolfe"]
+[Result "0-1"]
+[WhiteElo "976"]
+[BlackElo "964"]
+[TimeControl "300"]
+[EndTime "8:24:01 PST"]
+[Termination "frederikwolfe won by checkmate"]
+
+1. e4 e5 2. Nc3 Bc5 3. Bc4 Nf6 4. d3 c6 5. Bg5 h6 6. Bxf6 Qxf6 7. Qf3 Qxf3 8.
+Nxf3 b5 9. Bb3 d6 10. a4 b4 11. Ne2 Nd7 12. O-O-O O-O 13. Rhf1 Bb6 14. h4 Nc5
+15. Ba2 a5 16. Nh2 Be6 17. Bxe6 Nxe6 18. g4 Nd4 19. Nxd4 exd4 20. f4 Bd8 21. g5
+h5 22. f5 f6 23. gxf6 Bxf6 24. Nf3 c5 25. Rg1 Rab8 26. Rg3 b3 27. c3 dxc3 28.
+Rh1 cxb2+ 29. Kb1 Rb4 30. Rh2 Rxa4 31. Ng1 Ra1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "turm1949"]
+[Result "0-1"]
+[WhiteElo "968"]
+[BlackElo "994"]
+[TimeControl "300"]
+[EndTime "8:29:12 PST"]
+[Termination "turm1949 won by resignation"]
+
+1. e4 e5 2. Nc3 d6 3. Bc4 Be6 4. d3 Bxc4 5. dxc4 h6 6. Nd5 Nf6 7. Nxf6+ Qxf6 8.
+Qf3 Qxf3 9. Nxf3 Be7 10. c5 dxc5 11. Nxe5 Nc6 12. Nxc6 bxc6 13. Be3 O-O 14.
+O-O-O Bf6 15. h4 c4 16. b3 cxb3 17. axb3 a5 18. g4 a4 19. g5 hxg5 20. hxg5 Be5
+21. Bd4 Bxd4 22. Rxd4 axb3 23. e5 Ra1+ 24. Kb2 Rxh1 25. cxb3 Rh2 26. Rd2 Re8 27.
+e6 Rxe6 28. Rc2 Rg6 29. f4 Rxc2+ 30. Kxc2 Rd6 31. Kc3 f6 32. gxf6 gxf6 33. Kc4
+Kg7 34. b4 Kg6 35. Kb3 Kf5 36. Ka4 Kxf4 37. Ka5 Kg4 38. Ka6 f5 39. Kb7 Rd4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "cursedobserver"]
+[Black "aaronshawcsh"]
+[Result "0-1"]
+[WhiteElo "965"]
+[BlackElo "976"]
+[TimeControl "300"]
+[EndTime "8:35:19 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 e6 2. Bc4 b6 3. d4 Bb7 4. d5 Bc5 5. Qf3 Qf6 6. Qxf6 Nxf6 7. dxe6 Bxe4 8.
+exf7+ Kf8 9. f3 Bxc2 10. Nc3 c6 11. Ne4 d5 12. Nxf6 dxc4 13. Ng4 Kxf7 14. Kd2
+Bf5 15. Ne3 Rd8+ 16. Ke2 Bd3+ 17. Kf2 Re8 18. Nh3 Nd7 19. Ng5+ Kg8 20. Re1 Nf6
+21. Kg3 Bd6+ 22. Kh4 Nd5 23. Bd2 Nxe3 24. Bxe3 h6 25. Ne4 Bxe4 26. fxe4 Rxe4+
+27. Kh5 Kh7 28. Bxh6 g6+ 29. Kg5 Be7# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "Jstkillingit"]
+[Result "1-0"]
+[WhiteElo "983"]
+[BlackElo "945"]
+[TimeControl "300"]
+[EndTime "8:47:10 PST"]
+[Termination "aaronshawcsh won on time"]
+
+1. e4 g6 2. Nc3 e5 3. Bc4 c6 4. Qf3 Nh6 5. d3 g5 6. h3 d6 7. Be3 b5 8. Bb3 c5 9.
+a4 c4 10. Ba2 Qa5 11. O-O-O b4 12. Nd5 c3 13. Nxc3 bxc3 14. Bxg5 Qxa4 15. Kb1
+Be6 16. Bxe6 fxe6 17. Qh5+ Nf7 18. Qf3 Nxg5 19. Qh5+ Nf7 20. Nf3 Qb5 21. b3 h6
+22. d4 Qe2 23. Rhe1 Qxf2 24. dxe5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "Ninja_Bar"]
+[Black "aaronshawcsh"]
+[Result "1-0"]
+[WhiteElo "1031"]
+[BlackElo "976"]
+[TimeControl "300"]
+[EndTime "8:54:27 PST"]
+[Termination "Ninja_Bar won by checkmate"]
+
+1. e4 e6 2. Nf3 b6 3. Nc3 Bb7 4. d4 Bb4 5. Bd2 Bxc3 6. Bxc3 Bxe4 7. Qe2 d5 8.
+Ng5 Qxg5 9. f3 Bg6 10. Qb5+ c6 11. Qb4 a5 12. Qxb6 Ne7 13. Qb7 O-O 14. Qxa8 Qe3+
+15. Kd1 Nd7 16. Qxa5 Nf5 17. Bb4 Re8 18. Bd2 Qxd4 19. c3 Ne3+ 20. Ke1 Nc2+ 21.
+Kd1 Qe5 22. Rc1 Ne3+ 23. Bxe3 Qxe3 24. Be2 Ne5 25. Re1 Nc4 26. Bxc4 Bc2+ 27.
+Rxc2 Qxe1+ 28. Kxe1 dxc4 29. Qc5 f5 30. Qxc6 e5 31. Qxe8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "kanowna"]
+[Result "1-0"]
+[WhiteElo "985"]
+[BlackElo "1005"]
+[TimeControl "300"]
+[EndTime "9:03:27 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bc5 5. Bg5 h6 6. Bxf6 Qxf6 7. Qf3 Qxf3 8.
+Nxf3 O-O 9. O-O-O d6 10. h4 Bg4 11. Nd5 Kh8 12. a3 Bxf2 13. Rdf1 Bc5 14. b4 Bxf3
+15. Rxf3 Bd4 16. Kd2 a5 17. c3 Ba7 18. b5 Nd8 19. g4 c6 20. Nc7 Rc8 21. Ne6 Nxe6
+22. Bxe6 Kg8 23. Bc4 cxb5 24. Bxb5 Rc5 25. c4 d5 26. Kc3 dxe4 27. Rg3 exd3 28.
+Rxd3 e4 29. Rg3 Re5 30. g5 h5 31. Re1 e3 32. c5 Bxc5 33. Kc4 Bb6 34. a4 Re4+ 35.
+Kd3 Rxh4 36. Rc1 Rh2 37. Rxe3 Bxe3 38. Kxe3 Rh3+ 39. Kf2 h4 40. Rc7 Rb8 41. Kg2
+Rg3+ 42. Kf2 Rxg5 43. Bc4 h3 44. Bxf7+ Kh7 45. Rc1 Rg2+ 46. Kf3 h2 47. Kxg2
+h1=Q+ 48. Rxh1# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "amirkalev21"]
+[Result "0-1"]
+[WhiteElo "977"]
+[BlackElo "986"]
+[TimeControl "300"]
+[EndTime "13:50:35 PST"]
+[Termination "amirkalev21 won on time"]
+
+1. e4 g6 2. Nc3 Bg7 3. Bc4 e6 4. d4 Ne7 5. d5 exd5 6. exd5 d6 7. Bb5+ Bd7 8.
+Bxd7+ Qxd7 9. Nf3 Na6 10. a3 c6 11. Qe2 cxd5 12. Nxd5 O-O 13. Nxe7+ Kh8 14. Bg5
+Rfe8 15. O-O-O h6 16. h4 Qe6 17. Qxe6 fxe6 18. Nxg6+ Kh7 19. h5 Rac8 20. Rxd6
+Nc5 21. Nd4 Ne4 22. Nxe6 Nxg5 23. Nxg7 Kxg7 24. Rd7+ Kf6 25. Rhd1 Ne4 26. f3 Ng5
+27. R7d6+ Ne6 28. f4 Kf5 29. g4+ Kxg4 30. Rg1+ Kxh5 31. f5 Nc5 32. Rd5 Red8 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "saj197"]
+[Result "1-0"]
+[WhiteElo "985"]
+[BlackElo "813"]
+[TimeControl "300"]
+[EndTime "13:54:40 PST"]
+[Termination "aaronshawcsh won by resignation"]
+
+1. e4 c5 2. Nc3 Nc6 3. d3 g6 4. Be3 d6 5. Qd2 Bg7 6. O-O-O Qa5 7. Kb1 Nb4 8. a3
+Nc6 9. Be2 Be6 10. Nf3 O-O-O 11. Rhe1 Nh6 12. Bxh6 Bxh6 13. Qxh6 d5 14. exd5
+Bxd5 15. Nxd5 Rxd5 16. c4 Rf5 17. Nh4 Nd4 18. Bg4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "Amoilsky97"]
+[Black "aaronshawcsh"]
+[Result "1-0"]
+[WhiteElo "1027"]
+[BlackElo "978"]
+[TimeControl "300"]
+[EndTime "14:02:28 PST"]
+[Termination "Amoilsky97 won by resignation"]
+
+1. e4 e6 2. d4 b6 3. Nf3 Bb7 4. Nc3 Bb4 5. Bd3 c5 6. a3 Bxc3+ 7. bxc3 cxd4 8.
+cxd4 Ne7 9. O-O O-O 10. Bg5 Nbc6 11. Qd2 Rc8 12. c4 f6 13. Bh4 d6 14. Rfe1 e5
+15. d5 Nd4 16. Nxd4 exd4 17. Be2 Ba6 18. Qxd4 b5 19. cxb5 Bb7 20. a4 Qb6 21.
+Qxb6 axb6 22. Bg4 Rc4 23. Be2 Rxe4 24. f3 Rxh4 25. g3 Rd4 26. Red1 Rxd1+ 27.
+Rxd1 Nxd5 28. Bc4 Kh8 29. Bxd5 Bxd5 30. Rxd5 Rd8 31. a5 bxa5 32. b6 a4 33. b7 a3
+34. Rb5 Rb8 35. Kf2 a2 36. Ra5 a1=Q 37. Ra2 Rxb7 38. Rxa1 Rb2+ 39. Kg1 d5 40.
+Rd1 Rb5 41. Kf2 Kg8 42. Ke3 Kf7 43. Kf4 Ke6 44. h4 Rb8 45. g4 Rd8 46. Ke3 Ke5
+47. f4+ Ke6 48. Kd4 Ra8 49. f5+ Kd6 50. Rb1 Ra4+ 51. Ke3 d4+ 52. Kd3 Kd5 53.
+Rb5+ Kc6 54. Rb8 Kc5 55. Rc8+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "SalutCstMoi"]
+[Black "aaronshawcsh"]
+[Result "1-0"]
+[WhiteElo "1031"]
+[BlackElo "971"]
+[TimeControl "300"]
+[EndTime "14:06:31 PST"]
+[Termination "SalutCstMoi won by resignation"]
+
+1. e4 e6 2. Nf3 b6 3. Nc3 Bb7 4. d4 Bb4 5. Bd3 Bxc3+ 6. bxc3 Ne7 7. O-O O-O 8.
+Re1 d6 9. Ba3 Nd7 10. Rb1 a5 11. c4 c6 12. c5 bxc5 13. Rxb7 cxd4 14. Rb2 Nc5 15.
+Nxd4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.18"]
+[Round "-"]
+[White "madpbj"]
+[Black "aaronshawcsh"]
+[Result "1-0"]
+[WhiteElo "980"]
+[BlackElo "962"]
+[TimeControl "180"]
+[EndTime "21:28:54 PST"]
+[Termination "madpbj won - game abandoned"]
+
+1. e4 e6 2. d4 b6 3. Nf3 Bb7 4. Bc4 Be7 5. Nc3 Bb4 6. Bd2 Bxc3 7. Bxc3 Bxe4 8.
+O-O d5 9. Bd3 Bxd3 10. Qxd3 Nf6 11. Rfe1 Ne4 12. Bd2 Nxd2 13. Qxd2 O-O 14. Qd3
+Nc6 15. c4 Nb4 16. Qa3 Nc2 17. Qc3 Nxa1 18. Rxa1 a5 19. cxd5 Qxd5 20. Rc1 c5 21.
+h3 Rac8 22. Qd3 cxd4 23. Rxc8 Rxc8 24. Kh2 Qd6+ 25. g3 Qd5 26. Nxd4 e5 27. Qa6
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.18"]
+[Round "-"]
+[White "easywin12344321"]
+[Black "aaronshawcsh"]
+[Result "1-0"]
+[WhiteElo "959"]
+[BlackElo "954"]
+[TimeControl "180"]
+[EndTime "21:33:47 PST"]
+[Termination "easywin12344321 won by checkmate"]
+
+1. c4 e6 2. Nc3 b6 3. g3 Bb7 4. e4 Bb4 5. Nge2 a5 6. a3 Bxc3 7. Nxc3 c6 8. d4
+Ba6 9. d5 b5 10. b3 Nf6 11. Bd3 O-O 12. O-O b4 13. axb4 axb4 14. e5 bxc3 15.
+exf6 Qxf6 16. Qg4 c2 17. Bxc2 Qxa1 18. Bh6 cxd5 19. Rxa1 Bb7 20. Qxg7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.18"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "Sebast_m"]
+[Result "1-0"]
+[WhiteElo "962"]
+[BlackElo "954"]
+[TimeControl "180"]
+[EndTime "21:39:47 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bb4 5. Bg5 Bxc3+ 6. bxc3 h6 7. Bxf6 Qxf6 8.
+Qf3 Qxf3 9. Nxf3 O-O 10. Kd2 a6 11. h4 b5 12. Bb3 a5 13. Bd5 Bb7 14. Bxc6 Bxc6
+15. Nxe5 d6 16. Nxc6 a4 17. g4 Ra6 18. Ne7+ Kh7 19. f4 Re8 20. Nd5 c6 21. Ne3 c5
+22. Raf1 b4 23. Nd5 Rc8 24. g5 b3 25. cxb3 axb3 26. axb3 Ra2+ 27. Ke3 Ra3 28.
+gxh6 gxh6 29. Nf6+ Kh8 30. Rfg1 Rxb3 31. c4 Rb4 32. Nd5 Rb3 33. Rg4 Kh7 34. Rhg1
+Kh8 35. Nf6 Rbb8 36. Rg8+ Rxg8 37. Nxg8 Rxg8 38. Rxg8+ Kxg8 39. Kf3 Kg7 40. Kg4
+f6 41. Kf5 Kf7 42. h5 Kg7 43. e5 dxe5 44. fxe5 fxe5 45. Kxe5 Kf7 46. d4 cxd4 47.
+Kxd4 Kf6 48. Kd5 Ke7 49. c5 Kd7 50. c6+ Kc7 51. Kc5 Kd8 52. Kb6 Kc8 53. Kc5 Kc7
+54. Kb5 Kc8 55. Kb6 Kd8 56. Kb7 Ke8 57. c7 Kd7 58. c8=Q+ Kd6 59. Qh8 Kc5 60.
+Qxh6 Kb4 61. Qg6 Ka3 62. h6 Ka4 63. h7 Ka3 64. h8=Q Ka4 65. Qh4+ Ka3 66. Qgg3+
+Ka2 67. Qhh2+ Ka1 68. Qgg1# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.18"]
+[Round "-"]
+[White "Sebast_m"]
+[Black "aaronshawcsh"]
+[Result "0-1"]
+[WhiteElo "946"]
+[BlackElo "970"]
+[TimeControl "180"]
+[EndTime "21:44:34 PST"]
+[Termination "aaronshawcsh won by checkmate"]
+
+1. e4 e6 2. d4 b6 3. e5 Bb7 4. Nf3 d6 5. Be2 dxe5 6. O-O exd4 7. Nxd4 c5 8. Nb5
+Qxd1 9. Rxd1 a6 10. Nd6+ Bxd6 11. Rxd6 Ke7 12. Rxb6 Ra7 13. Bf4 Nf6 14. Bxb8
+Rxb8 15. Nc3 Nd5 16. Nxd5+ exd5 17. Re1 Kf8 18. c4 d4 19. f4 a5 20. g4 Ra6 21.
+Rxb7 Rxb7 22. f5 Rxb2 23. h4 Rxa2 24. h5 f6 25. Kh2 Ra7 26. Kh3 Re7 27. g5 Re3+
+28. Kg2 Raxe2+ 29. Rxe2 Rxe2+ 30. Kf3 Rh2 31. gxf6 gxf6 32. Kg4 h6 33. Kg3 Ke7
+34. Kxh2 Kd7 35. Kg2 Kd6 36. Kf2 Ke5 37. Ke2 Ke4 38. Kd2 Kxf5 39. Kc2 Ke4 40.
+Kd2 f5 41. Kc2 f4 42. Kb3 Kd3 43. Ka4 f3 44. Kxa5 f2 45. Kb5 f1=Q 46. Kxc5 Kc3
+47. Kb5 d3 48. c5 d2+ 49. Kb6 d1=Q 50. c6 Qxh5 51. c7 Qf6+ 52. Kb7 Qb5+ 53. Ka7
+Qfa6# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.18"]
+[Round "-"]
+[White "aaronshawcsh"]
+[Black "Sebast_m"]
+[Result "0-1"]
+[WhiteElo "961"]
+[BlackElo "955"]
+[TimeControl "180"]
+[EndTime "21:50:51 PST"]
+[Termination "Sebast_m won on time"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bb4 5. Bg5 Bxc3+ 6. bxc3 h6 7. Bxf6 Qxf6 8.
+Qf3 Qxf3 9. Nxf3 O-O 10. Kd2 Re8 11. h4 d6 12. g4 Bxg4 13. Ke3 Na5 14. Bd5 c6
+15. Bb3 Nxb3 16. cxb3 c5 17. Rhg1 Bxf3 18. Kxf3 b5 19. Ke3 b4 20. cxb4 cxb4 21.
+f4 a5 22. Rg3 f6 23. fxe5 fxe5 24. Rag1 Re7 25. Rg6 Rd7 26. d4 exd4+ 27. Kxd4 a4
+28. Kd5 axb3 29. axb3 Ra3 30. Rxd6 Rxd6+ 31. Kxd6 Rxb3 32. Ke6 Re3 33. Rd1 Rxe4+
+34. Kf5 Rxh4 35. Ke6 b3 36. Rd8+ Kh7 37. Kf7 b2 38. Rb8 Rh2 39. Ke6 Re2+ 40. Kd5
+Rd2+ 41. Kc4 Rc2+ 42. Kd3 Rc1 43. Rxb2 Rh1 44. Rg2 Rh3+ 45. Ke4 Ra3 46. Ke5 Ra8
+47. Ke6 Rg8 48. Kf7 g5 49. Rf2 Rg7+ 50. Ke6 g4 51. Rf7 Rxf7 52. Kxf7 g3 53. Kf6
+g2 54. Kf5 g1=Q 55. Kf4 h5 56. Ke5 h4 57. Kd5 h3 58. Ke5 h2 59. Kd5 h1=N 60. Ke5
+Kh6 61. Kd5 Kh5 62. Ke5 Kh4 63. Kd5 Kh3 64. Ke5 Kh2 65. Kd5 Kh3 66. Ke5 Qa7 67.
+Kd5 Qb8 68. Ke4 Qh8 69. Kd5 Qa1 70. Ke4 Qh8 71. Kd5 Qa8+ 72. Ke5 Ng3 73. Kd4
+Qa1+ 74. Kd5 Qg7 75. Kd6 Qf8+ 76. Ke5 Qg7+ 77. Kd6 Qg6+ 78. Kd5 Qg5+ 79. Kc6
+Qc1+ 80. Kd5 Qd2+ 81. Ke6 Qe3+ 82. Kd5 Qd3+ 83. Ke6 Qe3+ 84. Kd5 Qb3+ 85. Ke5
+Qb8+ 86. Kd4 Qb3 87. Ke5 Ne2 88. Kf5 Qg3 89. Ke6 Nd4+ 90. Kd5 Qg4 91. Kc5 Nf3
+92. Kd5 Qd4+ 93. Ke6 Qe5+ 94. Kf7 Ng5+ 95. Kg6 Qe7 96. Kh6 Nf7+ 97. Kg7 Kg4 98.
+Kg6 Kh4 99. Kh7 Qe4+ 100. Kg8 Nh6+ 101. Kf8 Qh7 102. Ke8 Qf7+ 103. Kd8 Nf5 0-1

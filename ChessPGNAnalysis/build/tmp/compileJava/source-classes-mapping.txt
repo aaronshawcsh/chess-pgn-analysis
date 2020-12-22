@@ -1,0 +1,27 @@
+dataextract/PlayerStats.java
+ dataextract.PlayerStats
+dataextract/DataExtract.java
+ dataextract.DataExtract
+dataextract/GenStats.java
+ dataextract.GenStats
+dataextract/XMLProcessor.java
+ dataextract.XMLProcessor
+analyzerTools/Analysis.java
+ analyzerTools.Analysis
+dataextract/PGNTag.java
+ dataextract.PGNTag
+analyzerTools/Analyzer.java
+ analyzerTools.Analyzer
+ analyzerTools.Analyzer$Player
+dataextract/Evaluation.java
+ dataextract.Evaluation
+dataextract/PlayedMove.java
+ dataextract.PlayedMove
+dataextract/Game.java
+ dataextract.Game
+dataextract/PlayedMoveScore.java
+ dataextract.PlayedMoveScore
+dataextract/Analysis.java
+ dataextract.Analysis
+analyzerTools/StockPGNAnalyzer.java
+ analyzerTools.StockPGNAnalyzer

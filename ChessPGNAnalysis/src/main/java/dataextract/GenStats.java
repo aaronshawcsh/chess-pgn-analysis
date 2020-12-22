@@ -78,6 +78,7 @@ public class GenStats {
      * @return A list of up to 2-elements containing the stats on
      *         the players in the game, if required.
      */
+    /*
     public List<PlayerStats> getStats(Game game) {
         List<PlayerStats> stats = new ArrayList<>(2);
         
@@ -99,7 +100,7 @@ public class GenStats {
             }
         }
         return stats;
-    }
+    }*/
     
     /**
      * Return the number of player names we are interested in.
@@ -307,6 +308,7 @@ public class GenStats {
      * @param stats The stats to be checked.
      * @return Whether the ID matches.
      */
+    /*
     private boolean idMatches(PlayerStats stats)
     {
         String playerID = stats.buildID();
@@ -316,7 +318,7 @@ public class GenStats {
             }
         }
         return false;
-    }
+    }*/
 
     void addHashCode(String hashCode) {
         hashCodes.add(hashCode);

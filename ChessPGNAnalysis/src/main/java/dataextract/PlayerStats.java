@@ -20,6 +20,8 @@ package dataextract;
  *  https://www.cs.kent.ac.uk/people/staff/djb/
  */
 
+import analyzerTools.Analyzer;
+
 /**
  * Provide details of a particular player in a particular game.
  * 
@@ -56,69 +58,13 @@ public class PlayerStats {
     public PlayerStats(Game game, String playerName, double lowThreshold, boolean showFullScores) {
         this.game = game;
         this.playerName = playerName;
-        this.isWhite = game.getTagValue("White").equalsIgnoreCase(playerName);
+        this.isWhite = game.getPlayer() == Analyzer.Player.WHITE;
         this.lowThreshold = lowThreshold;
         this.showFullScores = showFullScores;
-        
+
         scores = game.getNonMateScores(playerName);
         textDifferences = game.getScoresAsText(playerName);
         CV = getPercentageWithinThreshold(scores, lowThreshold);
-    }
-
-    @Override
-    public String toString()
-    {
-        StringBuilder output = new StringBuilder();
-       // Output the date and differences on a single line.
-        String date = game.getTagValue("Date");
-        if (date.length() < 4) {
-            date = "????";
-        }
-        String result = game.getTagValue("Result");
-        if(result.length() >= 3) {
-            result = result.substring(0, 3);
-        }
-        else {
-            result = String.format("%3s", result);
-        }
-        String hashcode = game.getTagValue("HashCode");
-        while(hashcode.length() < 8) {
-            hashcode = "0" + hashcode;
-        }
-        output.append(date.substring(0, 4));
-        output.append(':');
-        // Print the player's name.
-        output.append(String.format("%-30s", 
-                playerName.substring(0, Math.min(MAX_NAME_LENGTH, playerName.length()))));
-        if (isWhite) {
-            output.append(":W");
-        } else  {
-            output.append(":B");
-        }
-        double mean = getAE();
-        double sd = sd(mean);
-        // Output textDifferences.length rather than scores.length to avoid
-        // inconsistencies with non-numeric mate scores.
-        output.append(':');
-        output.append(String.format("%3s", game.getAnalysis().getBookDepth()));
-        output.append(':');
-        output.append(String.format("%3d", textDifferences.length));
-        output.append(':');
-        output.append(String.format("%2s", game.getAnalysis().getSearchDepth()));
-        output.append(':');
-        output.append(String.format("%8.2f", mean)).append(':');
-        output.append(String.format("%6.1f", sd)).append(':');
-        output.append(String.format("%5.2f", CV)).append(':');
-        
-        output.append(result).append(':');
-        output.append(hashcode).append(':');
-        if (showFullScores) {
-            // Print the raw scores, too.
-            for (String score : textDifferences) {
-                output.append(String.format("%s:", score));
-            }
-        }
-        return output.toString();
     }
 
     /**
@@ -188,7 +134,7 @@ public class PlayerStats {
     /**
      * Return the standard deviation of the scores.
      *
-     * @param The mean of the scores.
+     * @param mean The mean of the scores.
      * @return The standard deviation.
      */
     private double sd(double mean) {
@@ -198,34 +144,6 @@ public class PlayerStats {
             sum += diff * diff;
         }
         return Math.sqrt(sum / scores.length);
-    }
-
-    /**
-     * Build the ID string for the given player on the given game.
-     * @return The ID string.
-     */
-    public String buildID()
-    {
-        StringBuilder builder = new StringBuilder();
-        String date = game.getTagValue("Date");
-        if (date.length() < 4) {
-            date = "????";
-        }
-        builder.append(date.substring(0, 4));
-        builder.append(':');
-        builder.append(String.format("%-30s", 
-                playerName.substring(0, Math.min(MAX_NAME_LENGTH, 
-                playerName.length()))));
-        if(isWhite) {
-            builder.append(":W:");
-        }
-        else {
-            builder.append(":B:");
-        }
-        builder.append(String.format("%3s", game.getTagValue("BookDepth")));
-        builder.append(':');
-        builder.append(String.format("%3d", game.getScoresAsText(playerName).length));
-        return builder.toString();
     }
 
 }

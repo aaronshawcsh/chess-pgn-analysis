@@ -28,6 +28,8 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
+import analyzerTools.*;
+
 /**
  * Store details of a game, including its PGN tags and the analysis.
  * Provide access to those details.
@@ -39,31 +41,23 @@ public class Game {
 
     public static final String MATCH_ANY_WHITE_PLAYER = "<White>";
     public static final String MATCH_ANY_BLACK_PLAYER = "<Black>";
-    private final List<PGNTag> tags;
-    private final Map<String, PGNTag> tagMap;
+    private final Analyzer.Player player;
     private final String[] moves;
     private final Analysis analysis;
     private final int bookDepth;
 
     /**
      * Create a game given its tags, moves and analysis.
-     * @param tags The game's PGN tags.
      * @param moveList The game's moves.
      * @param analysis The analysis of the game.
      */
-    public Game(List<PGNTag> tags, String moveList, Analysis analysis) {
-        this.tags = tags;
+    public Game(Analyzer.Player player, String moveList, Analysis analysis) {
+        this.player = player;
         String[] movesAndResult = moveList.split("\\s+");
         this.moves = new String[movesAndResult.length - 2];
         System.arraycopy(movesAndResult, 1, this.moves, 0, this.moves.length);
         this.analysis = analysis;
         this.bookDepth = analysis.getBookDepth();
-
-        // Fill the tag map from the tags list.
-        this.tagMap = new HashMap<>();
-        for (PGNTag tag : tags) {
-            tagMap.put(tag.getName(), tag);
-        }
     }
 
     /**
@@ -76,27 +70,8 @@ public class Game {
     public String[] getScoresAsText(String player) {
         String[] result;
         List<String> scores = new ArrayList<>();
-        boolean playerFound = false;
-        // Find out whether the player is black or white.
-        boolean playerIsWhite = true;
-        Iterator<PGNTag> it = tags.iterator();
-        for (PGNTag tag : tags) {
-            if (tag.getName().equals("White")) {
-                if (player.equalsIgnoreCase(MATCH_ANY_WHITE_PLAYER) || tag.getValue().equalsIgnoreCase(player)) {
-                    playerFound = true;
-                    playerIsWhite = true;
-                }
-            } else if (tag.getName().equals("Black")) {
-                if (player.equalsIgnoreCase(MATCH_ANY_BLACK_PLAYER) || tag.getValue().equalsIgnoreCase(player)) {
-                    playerFound = true;
-                    playerIsWhite = false;
-                }
-            } else if (tag.getName().equalsIgnoreCase("BookDepth")) {
-                // Should already have been set from the analysis tag.
-                // bookDepth = Integer.parseInt(tag.getValue());
-            }
-        }
-        if (playerFound && bookDepth >= 0) {
+        boolean playerIsWhite = player.equals(Analyzer.Player.WHITE + "");
+        if (bookDepth >= 0) {
             List<PlayedMove> played = analysis.getAnalysedMoves();
             int ply = bookDepth + 1;
             boolean errorInGame = false;
@@ -142,24 +117,8 @@ public class Game {
         int[] result;
         List<Integer> scores = new ArrayList<>();
         // Find out whether the player is black or white.
-        boolean playerFound = false;
-        boolean playerIsWhite = true;
-        Iterator<PGNTag> it = tags.iterator();
-        for (PGNTag tag : tags) {
-            if (tag.getName().equals("White")) {
-                if (player.equalsIgnoreCase(MATCH_ANY_WHITE_PLAYER) || tag.getValue().equalsIgnoreCase(player)) {
-                    playerFound = true;
-                    playerIsWhite = true;
-                }
-            } else if (tag.getName().equals("Black")) {
-                if (player.equalsIgnoreCase(MATCH_ANY_BLACK_PLAYER) || tag.getValue().equalsIgnoreCase(player)) {
-                    playerFound = true;
-                    playerIsWhite = false;
-                }
-            } else if (tag.getName().equalsIgnoreCase("BookDepth")) {
-            }
-        }
-        if (playerFound && bookDepth >= 0) {
+        boolean playerIsWhite = player.equals(Analyzer.Player.WHITE + "");
+        if (bookDepth >= 0) {
             List<PlayedMove> played = analysis.getAnalysedMoves();
             boolean errorInGame = false;
             try {
@@ -192,21 +151,6 @@ public class Game {
         }
         return result;
     }
-
-    /**
-     * Return the value of the given tag.
-     *
-     * @param tagName The PGN tag of interest.
-     * @return Return the tag's value; a blank string if it is not set.
-     */
-    public String getTagValue(String tagName) {
-        PGNTag tag = tagMap.get(tagName);
-        if (tag != null) {
-            return tag.getValue();
-        } else {
-            return "";
-        }
-    }
     
     /**
      * Return the book depth of this game
@@ -215,14 +159,6 @@ public class Game {
     public int getBookDepth()
     {
         return bookDepth;
-    }
-
-    /**
-     * Return the tags.
-     * @return A list of PGN tags.
-     */
-    public List<PGNTag> getTags() {
-        return tags;
     }
 
     /**
@@ -239,23 +175,6 @@ public class Game {
      */
     public Analysis getAnalysis() {
         return analysis;
-    }
-
-    /**
-     * Return a formatted version of the game's tags and moves.
-     * @return Details of the game.
-     */
-    @Override
-    public String toString() {
-        StringBuilder builder = new StringBuilder();
-        for (PGNTag tag : tags) {
-            builder.append(tag).append('\n');
-        }
-        for(String move : moves) {
-            builder.append(move).append(' ');
-        }
-        builder.append(tagMap.get("Result").getValue());
-        return builder.toString();
     }
 
     /**
@@ -376,16 +295,6 @@ public class Game {
         throws IOException
     {
         StringBuilder builder = new StringBuilder();
-        for(PGNTag tag : tags) {
-            builder.append(tag.toString()).append('\n');
-        }
-        builder.append('\n');
-        
-        builder.append("{ ");
-        builder.append("search depth = ").append(analysis.getSearchDepth()).append(" /").append('\n');
-        builder.append(getAnnotationStats(getTagValue("White"))).append(" /").append('\n');
-        builder.append(getAnnotationStats(getTagValue("Black"))).append(" }").append('\n');
-        builder.append('\n');
         
         // Output those moves without an evaluation.
         int ply = 1;
@@ -414,9 +323,12 @@ public class Game {
                 builder.append(") ");
             }
         }
-        builder.append(getTagValue("Result"));
         builder.append('\n');
         annotatedFile.write(builder.toString());
+    }
+
+    public Analyzer.Player getPlayer() {
+        return player;
     }
     
     /**
@@ -424,8 +336,7 @@ public class Game {
      * @param player Player whose stats are required.
      * @return The AE, CV and MM values.
      */
-    private String getAnnotationStats(String player)
-    {
+    private String getAnnotationStats(String player) {
         PlayerStats stats = new PlayerStats(this, player, 0.0, false);
         StringBuilder builder = new StringBuilder();
         builder.append(player).append(": ");
@@ -434,50 +345,4 @@ public class Game {
         builder.append("NM = ").append(stats.getNumScores());
         return builder.toString();
     }
-
-    /**
-     * Experimental.
-     * For each move, output the evaluation paired with the final result
-     * value as either 1 (win), 0, (draw) or -1 (loss).
-     */
-    void outputCurveData() {
-        String result = getTagValue("Result");
-        if(result != null) {
-            result = result.trim();
-            int[] resultValue = null;
-            if(result.startsWith("1-0")) {
-                resultValue = new int[] { 1, -1 };
-            }
-            else if(result.startsWith("0-1")) {
-                resultValue = new int[] { -1, 1 };
-            }
-            else if(result.startsWith("1/2")) {
-                resultValue = new int[] { 0, 0 };
-            }
-            else {
-                // Result not known.
-            }
-            if(resultValue != null) {
-                System.out.println("# Game");
-                boolean errorInGame = false;
-                String id = getTagValue("HashCode");
-                if(id != null) {
-                    System.out.println("# HashCode " + id);
-                }
-                else {
-                    System.out.println("# ");
-                }
-                List<PlayedMove> played = analysis.getAnalysedMoves();
-
-                for (PlayedMove move : played) {
-                    boolean whiteToMove = move.isWhiteMove();
-                    Evaluation best = move.getFirstEvaluation();
-                    System.out.println(best.getEvaluation() + " " +
-                            (whiteToMove ? resultValue[0] : resultValue[1]));
-                }
-            }
-        }
-    }
-
-
 }

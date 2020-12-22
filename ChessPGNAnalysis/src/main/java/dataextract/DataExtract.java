@@ -270,13 +270,13 @@ public class DataExtract {
                             annotatedFile.write('\n');
                         }
                         else if(outputCurveData) {
-                            game.outputCurveData();
+                            /*game.outputCurveData();
                             if(saveMatching && stats.hashCodeMatches(game.getTagValue("HashCode"))) {
                                 gameFile.write(game.toString());
                                 gameFile.write("\n");                                
-                            }
+                            }*/
                         } else {
-                            List<PlayerStats> ps = stats.getStats(game);
+                            /*List<PlayerStats> ps = stats.getStats(game);
                             for (PlayerStats s : ps) {
                                 System.out.println(s);
                                 if (outputMatchingDetails) {
@@ -287,7 +287,7 @@ public class DataExtract {
                                     gameFile.write(game.toString());
                                     gameFile.write("\n");
                                 }
-                            }
+                            }*/
                         }
                     }
                 } catch (FileNotFoundException ex) {
